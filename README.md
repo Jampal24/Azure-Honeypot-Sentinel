@@ -11,15 +11,8 @@ Honeypot using Azure and sentinel
 
 This project demonstrates the deployment of a cloud-based **Windows Honeypot** on Microsoft Azure integrated with **Microsoft Sentinel (SIEM)** for centralized log collection, monitoring, threat detection, and attack visualization.
 
-The project simulates an intentionally exposed Windows virtual machine to attract unauthorized login attempts. Windows Security Event Logs are collected using Azure Monitor Agent (AMA), forwarded to Azure Log Analytics Workspace, analyzed using Kusto Query Language (KQL), enriched with GeoIP intelligence, and monitored through Microsoft Sentinel.
+The project simulates an intentionally exposed Windows virtual machine to attract unauthorized login attempts. Windows Security Event Logs are collected using Azure Monitor Agent (AMA), forwarded to Azure Log Analytics Workspace, analyzed using Kusto Query Language (KQL), enriched with GeoIP intelligence, and monitored through Microsoft Sentinel
 
----
-
-## Project Resources
-
-📄 **Project Report:** `docs/Azure_Honeypot_Report.pdf`
-
-🎥 **Project Demonstration:** `demo/Azure_Honeypot_Demo.mp4`
 
 ---
 
@@ -342,14 +335,5 @@ Azure-Honeypot-Sentinel/
 
 # Authors
 
-- **Lakkshanth R**  
-  B.Tech Computer Science and Engineering (Cyber Security)
-
-- **Roohith R**  
-  B.Tech Computer Science and Engineering (Cyber Security)
-
----
-
-## License
-
-This project is intended for educational and research purposes.
+Mohit
+MSc Cybersecurity
