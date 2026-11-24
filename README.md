@@ -29,7 +29,6 @@ The project simulates an intentionally exposed Windows virtual machine to attrac
 - Skills & Technologies
 - Learning Outcomes
 - Future Improvements
-- Repository Structure
 - References
 - Author
 
@@ -301,25 +300,6 @@ Through this project, I learned how to:
 - Automate incident response using Azure Logic Apps.
 - Map detections to the MITRE ATT&CK Framework.
 - Develop advanced threat-hunting dashboards.
-
----
-
-# Repository Structure
-
-```text
-Azure-Honeypot-Sentinel/
-│
-├── README.md
-│
-├──Azure_Honeypot_Report.pdf
-│
-├── demo/
-│   └── Azure_Honeypot_Demo.mp4
-│
-└── queries/
-    ├── failed_logins.kql
-    └── geoip_lookup.kql
-```
 
 ---
 
